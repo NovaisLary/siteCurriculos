@@ -105,3 +105,48 @@ footer{
     color: #fff;
     text-align: center;
 }
+
+/*responsivo celulares*/
+@media(max-width:450px){
+    p, input, textarea {
+        font-size: 1.2rem;
+    }
+
+    #navbar h2 {
+        display: none;
+    }
+
+    #navbar img {
+        top:9px
+    }
+
+    #navbar ul {
+        margin-top: 1.1rem;
+    }
+
+    #main-banner {
+        height: 40vh;
+        padding-top: 5vh;
+        padding-bottom: 10vh;
+    }
+
+    #about-section {
+        padding: 2rem;
+        height: auto;
+        padding-bottom: 50px;
+    }
+
+    #skills-section {
+        margin-top:  -35px;
+        width: 90%;
+    }
+
+    #skills-section .container {
+        flex-direction: column;
+    }
+
+    #quemsomos {
+        width: 95%;
+        margin-left: auto;
+    }
+}
