@@ -22,7 +22,7 @@
 
 #navbar-list li a {
     text-decoration: none;
-    color: orange;
+    color : orange;
 }
 
 #navbar-list li :hover {
@@ -35,6 +35,9 @@
 }
 
 /*sobre nos*/
+.social-media a {
+    color: orange; 
+  }
 
 #about-section {
     text-align: center;
