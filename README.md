@@ -4,6 +4,8 @@ Cloud Computing AWS
 
 *Escola da Nuvem*
 
+https://novaislary.github.io/siteCurriculos/
+
 # Site Estático AWS
 
 Este repositório contém um site estático hospedado na Amazon Web Services (AWS), utilizando serviços como Amazon S3, CloudFront, Shield e Route 53. Este README fornecerá uma visão geral do projeto, instruções para configuração e implementação, bem como informações adicionais sobre os serviços AWS utilizados.
